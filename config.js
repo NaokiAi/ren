@@ -7,20 +7,20 @@ global.lolhuman = 'yourkey'
 
 //stick
 global.author = 'Follow Instagram\n  @naando.io  '
-global.packname = 'zets - bot\n'
+global.packname = 'Naoki\n'
 
 //Link
 global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
+global.linkyt = 'https://youtube.com/@Naoki5054'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
 
 // Othr
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'znan'
-global.botname = 'zets - bot'
-global.wm = '© zets'
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢᴇᴛꜱ ッ'
+global.owner = ['6281393936306']
+global.premium = ['6281393936306']
+global.ownername = 'Wisnu'
+global.botname = 'NaokiBot'
+global.wm = '©Naoki'
+global.footer = 'Naoki Robot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '∘'
